@@ -7,6 +7,7 @@
         <entry key="app/src/main/res/layout-land/activity_main.xml" value="0.22552083333333334" />
         <entry key="app/src/main/res/layout-land/item_movie.xml" value="0.22552083333333334" />
         <entry key="app/src/main/res/layout-land/popular_item.xml" value="0.22552083333333334" />
+        <entry key="app/src/main/res/layout/activity_detail.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.3098958333333333" />
         <entry key="app/src/main/res/layout/item_movie.xml" value="0.335" />
         <entry key="app/src/main/res/layout/popular_item.xml" value="0.29583333333333334" />
@@ -18,5 +19,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
   </component>
 </project>
